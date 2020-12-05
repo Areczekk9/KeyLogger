@@ -1,0 +1,7 @@
+C:\Users\patry\source\repos\KeyLoggerWindows\KeyLoggerWindows\bin\Debug\KeyLoggerWindows.exe.config
+C:\Users\patry\source\repos\KeyLoggerWindows\KeyLoggerWindows\bin\Debug\KeyLoggerWindows.exe
+C:\Users\patry\source\repos\KeyLoggerWindows\KeyLoggerWindows\obj\Debug\KeyLoggerWindows.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\KeyLoggerWindows\KeyLoggerWindows\obj\Debug\KeyLoggerWindows.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\KeyLoggerWindows\KeyLoggerWindows\obj\Debug\KeyLoggerWindows.exe
+C:\Users\patry\source\repos\KeyLoggerWindows\KeyLoggerWindows\obj\Debug\KeyLoggerWindows.pdb
+C:\Users\patry\source\repos\KeyLoggerWindows\KeyLoggerWindows\bin\Debug\KeyLoggerWindows.pdb
